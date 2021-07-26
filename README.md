@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @careid1195
+- 👋 Hi, my name is Charlie Reid 
 - 👀 I’m interested in Python programming and SQL.
 - 🌱 I’m currently learning Pythong programming 
 - 💞️ I’m looking to collaborate on ...
